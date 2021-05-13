@@ -1,2 +1,2 @@
-# wkia-logo
-⛩ Logo files for Walter Kwan Insurance Agency, Inc.
+# ⛩ WKIA Logo
+Logo files for Walter Kwan Insurance Agency, Inc.
